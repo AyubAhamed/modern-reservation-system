@@ -11,6 +11,7 @@ License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
 A sleek, modern reservation plugin. Use the shortcode [modern_reservation].
 
+
 = Features =
 * Date picker (Flatpickr)
 * Guests & Meal selectors (Choices.js)
@@ -20,11 +21,13 @@ A sleek, modern reservation plugin. Use the shortcode [modern_reservation].
 * Admin settings: meals, timeslots JSON, capacity, max guests, brand, terms URL
 * Custom Post Type for reservations
 
+
 = Installation =
 1. Upload the ZIP via Plugins → Add New → Upload Plugin.
 2. Activate the plugin.
 3. Go to **Reservations → Settings** to configure meals and time slots.
 4. Add the shortcode `[modern_reservation]` to a page.
+
 
 = Notes =
 Time slots are defined per meal via JSON, e.g.:
